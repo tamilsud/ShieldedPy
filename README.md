@@ -1,18 +1,18 @@
-# pysecurity
+# ShieldedPy
 
-`pysecurity` is a simple library for managing security tasks such as password hashing, token management, and data encryption.
+`shieldedpy` is a simple library for managing security tasks such as password hashing, token management, and data encryption.
 
 ## Installation
 
-You can install `pysecurity` using pip:
+You can install `shieldedpy` using pip:
 
 ```bash
-pip install pysecurity
+pip install shieldedpy
 ```
 
 ## Usage
 
-from pysecurity import SecurityManager
+from shielded import SecurityManager
 
 # Initialize SecurityManager
 security = SecurityManager(secret_key='your-secret-key')
